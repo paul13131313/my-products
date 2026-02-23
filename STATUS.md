@@ -67,3 +67,12 @@ BODY PARTICLES / MIRROR GRID / FOLDER VISION / FACE MIRROR / PARTICLE STORM / CO
 
 ## 更新ルール
 Claude Codeで作業後、このファイルを更新してgit push。
+## PAUL bot
+- リポジトリ: paul-bot
+- URL: https://paul-bot-xi.vercel.app/
+- 状態: ✅ 公開中
+- 技術: Next.js (App Router) + TypeScript + Tailwind CSS + Anthropic Claude API
+- 構成: ナレッジベース7ファイルをシステムプロンプトに全文含める方式（RAGなし）
+- ナレッジベース: profile.md, works.md, skills.md, philosophy.md, personal.md, faq.md, sns-blog.md
+- 機能: ストリーミングレスポンス、サジェスト質問、ダークテーマ、モバイル対応
+- 備考: 将来的にRAG（Supabase pgvector）への移行も可能
