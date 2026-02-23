@@ -21,7 +21,7 @@
 | 7 | ¡HABLEMOS! | https://paul13131313.github.io/spanish-travel/ | ペルー・ボリビア旅行向けスペイン語学習サイト（140フレーズ） |
 | 8 | SUBSTANCE LEGALITY MAP | https://paul13131313.github.io/substance-legality-map/ | 30種の依存性物質×20カ国の法的地位インタラクティブマップ |
 | 9 | まちのカルテ | https://paul13131313.github.io/machi-no-karte/ | 東京23区オープンデータ可視化（6軸比較） |
-| 10 | WORLD VISUAL DATA | https://paul13131313.github.io/world-visual-data/ | 世界50カ国×26指標のインタラクティブダッシュボード |
+| 10 | WORLD VISUAL DATA | https://paul13131313.github.io/world-visual-data/ | 世界50カ国×26指標のインタラクティブダッシュボード＋紛争マップ |
 | 11 | yaaawn | https://bless-you-seven.vercel.app/ | あくび写真の無限スクロール写真集 |
 | 12 | INFINITE LOADING | https://paul13131313.github.io/page-loader/ | 永遠に終わらないローディング画面ジョークサイト |
 | 13 | BABYBABYBABY | https://babybabybaby-seven.vercel.app | 赤ちゃんショート動画が無限に流れるTikTok風アプリ |
