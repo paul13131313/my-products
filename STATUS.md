@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 34件
+## WORKS（プロダクト開発）— 35件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -46,6 +46,7 @@
 | 32 | ザ・好物 | https://kobutsu.vercel.app/ | 好きな食べ物ランキングアプリ |
 | 33 | Condate | https://paul13131313.github.io/condate/ | KILL BILL風デザインの献立提案サイト |
 | 34 | 南米旅行サイト | https://paul13131313.github.io/south-america-2026/ | 2026年ペルー・ボリビア旅行ガイド |
+| 35 | CENSORED | https://paul13131313.github.io/censored/ | 人が喋ると口元にCENSORED表示＋ピー音が鳴るネタ動画アプリ |
 
 ---
 
