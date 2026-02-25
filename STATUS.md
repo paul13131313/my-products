@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 36件
+## WORKS（プロダクト開発）— 37件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -48,12 +48,13 @@
 | 34 | 南米旅行サイト | https://paul13131313.github.io/south-america-2026/ | 2026年ペルー・ボリビア旅行ガイド |
 | 35 | CENSORED | https://paul13131313.github.io/censored/ | 人が喋ると口元にCENSORED表示＋ピー音が鳴るネタ動画アプリ |
 | 36 | 中受クエスト | https://paul13131313.github.io/juken-quest/ | カイロソフト風・中学受験シミュレーションゲーム。入塾テスト→3年間のストーリー→ミニゲーム（連打・バランス・タイミング・クイズ）→受験→ドラマチック合格発表 |
+| 37 | SHEET MOVIE | https://paul13131313.github.io/sheet-movie/ | Google Sheetsのセルをピクセルに見立てて動画をモザイク再生するChrome拡張機能 |
 
 ---
 
-## PRACTICE（スキル開発）— 21件
+## PRACTICE（スキル開発）— 20件
 
-BODY PARTICLES / MIRROR GRID / FOLDER VISION / FACE MIRROR / PARTICLE STORM / COMPONENT KIT / MOTION LAB / KANBAN FLOW / LIVE BOARD / PIXEL DODGE / SCROLL STAGE / VOICE MEMO / FRACTAL DIVE / COLOR THIEF / SKILL GALAXY / SYNC PAD / AIR SYNTH / FLUID NOISE / SOUND COSMOS / G EFFECTOR / SHEET MOVIE
+BODY PARTICLES / MIRROR GRID / FOLDER VISION / FACE MIRROR / PARTICLE STORM / COMPONENT KIT / MOTION LAB / KANBAN FLOW / LIVE BOARD / PIXEL DODGE / SCROLL STAGE / VOICE MEMO / FRACTAL DIVE / COLOR THIEF / SKILL GALAXY / SYNC PAD / AIR SYNTH / FLUID NOISE / SOUND COSMOS / G EFFECTOR
 
 ---
 
