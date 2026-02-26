@@ -63,6 +63,7 @@ BODY PARTICLES / MIRROR GRID / FOLDER VISION / FACE MIRROR / PARTICLE STORM / CO
 |---------|------|
 | ヒキツギ（Hikitsugi） | 業務引き継ぎ自動化サービス → 中止 |
 | ＋50円で豚汁に変更できます | 画像の中心をAIで豚汁に変換 → 中止 |
+| movie-loop | Gemini API無料枠の制限＋Spec生成のクオリティ不足 → 中止 |
 
 ---
 
