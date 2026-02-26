@@ -86,3 +86,10 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード（予定）
 - クライアント: サンドウさん（We MEMBER）
 - 次のステップ: Supabase接続でデータ永続化 → Phase 2 THANKSカード
+## movie-loop（中止）
+- リポジトリ: movie-loop
+- 状態: ❌ 中止
+- 概要: YouTube参照動画の映像表現をAIループで自動再現するシステム（Gemini=映像解析+採点、Claude Code=実装、Playwright=録画の自動ループ）
+- 中止理由: Gemini API無料枠の制限 + 生成されるSpec（演出仕様）のクオリティが実用レベルに達しなかった
+- 技術: Node.js + Gemini API (動画理解) + Playwright
+- 学び: Geminiの動画→構造化テキスト変換は、現時点では細かい演出仕様の抽出精度が不十分
