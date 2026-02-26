@@ -77,3 +77,12 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - ナレッジベース: profile.md, works.md, skills.md, philosophy.md, personal.md, faq.md, sns-blog.md
 - 機能: ストリーミングレスポンス、サジェスト質問、ダークテーマ、モバイル対応
 - 備考: 将来的にRAG（Supabase pgvector）への移行も可能
+## We TASK（開発中）
+- リポジトリ: wetask
+- URL: https://paul13131313.github.io/wetask/
+- 状態: 🟡 Phase 1 開発中（プロトタイプ公開済み）
+- 技術: React (Vite) + GitHub Pages
+- 概要: チームの雑務を見える化するNotionライクなボード
+- 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード（予定）
+- クライアント: サンドウさん（We MEMBER）
+- 次のステップ: Supabase接続でデータ永続化 → Phase 2 THANKSカード
