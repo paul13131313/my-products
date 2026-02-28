@@ -79,15 +79,14 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - ナレッジベース: profile.md, works.md, skills.md, philosophy.md, personal.md, faq.md, sns-blog.md
 - 機能: ストリーミングレスポンス、サジェスト質問、ダークテーマ、モバイル対応
 - 備考: 将来的にRAG（Supabase pgvector）への移行も可能
-## We TASK（開発中）
+## We TASK（運用中）
 - リポジトリ: wetask
-- URL: https://paul13131313.github.io/wetask/
-- 状態: 🟡 Phase 1 開発中（プロトタイプ公開済み）
-- 技術: React (Vite) + GitHub Pages
+- URL: https://wetask-two.vercel.app
+- 状態: 🟢 運用中
+- 技術: Next.js + Upstash Redis + Vercel
 - 概要: チームの雑務を見える化するNotionライクなボード
-- 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード（予定）
-- クライアント: サンドウさん（We MEMBER）
-- 次のステップ: Supabase接続でデータ永続化 → Phase 2 THANKSカード
+- 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード、Chatwork通知、インタラクティブチュートリアル
+- クライアント: We MEMBER（サンドウさん）
 ## movie-loop（中止）
 - リポジトリ: movie-loop
 - 状態: ❌ 中止
@@ -95,20 +94,3 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 中止理由: Gemini API無料枠の制限 + 生成されるSpec（演出仕様）のクオリティが実用レベルに達しなかった
 - 技術: Node.js + Gemini API (動画理解) + Playwright
 - 学び: Geminiの動画→構造化テキスト変換は、現時点では細かい演出仕様の抽出精度が不十分
-## We TASK（開発中）
-- リポジトリ: wetask
-- URL: https://paul13131313.github.io/wetask/
-- 状態: 🟡 Phase 1 開発中（プロトタイプ公開済み）
-- 技術: React (Vite) + GitHub Pages
-- 概要: チームの雑務を見える化するNotionライクなボード
-- 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード（予定）
-- クライアント: サンドウさん（We MEMBER）
-- 次のステップ: Supabase接続でデータ永続化 → Phase 2 THANKSカード
-## We TASK（開発中）
-- リポジトリ: wetask
-- URL: https://wetask-two.vercel.app
-- 状態: 🟡 Phase 1 運用テスト中
-- 技術: Next.js + Vercel KV
-- 概要: チームの雑務を見える化するNotionライクなボード
-- クライアント: We MEMBER（サンドウさん）
-- 次のステップ: Phase 2 THANKSカード / Chatwork通知
