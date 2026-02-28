@@ -95,3 +95,12 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 中止理由: Gemini API無料枠の制限 + 生成されるSpec（演出仕様）のクオリティが実用レベルに達しなかった
 - 技術: Node.js + Gemini API (動画理解) + Playwright
 - 学び: Geminiの動画→構造化テキスト変換は、現時点では細かい演出仕様の抽出精度が不十分
+## We TASK（開発中）
+- リポジトリ: wetask
+- URL: https://paul13131313.github.io/wetask/
+- 状態: 🟡 Phase 1 開発中（プロトタイプ公開済み）
+- 技術: React (Vite) + GitHub Pages
+- 概要: チームの雑務を見える化するNotionライクなボード
+- 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード（予定）
+- クライアント: サンドウさん（We MEMBER）
+- 次のステップ: Supabase接続でデータ永続化 → Phase 2 THANKSカード
