@@ -49,7 +49,7 @@
 | 35 | CENSORED | https://paul13131313.github.io/censored/ | 人が喋ると口元にCENSORED表示＋ピー音が鳴るネタ動画アプリ |
 | 36 | 中受クエスト | https://paul13131313.github.io/juken-quest/ | カイロソフト風・中学受験シミュレーションゲーム。入塾テスト→3年間のストーリー→ミニゲーム（連打・バランス・タイミング・クイズ）→受験→ドラマチック合格発表 |
 | 37 | SHEET MOVIE | https://paul13131313.github.io/sheet-movie/ | Google Sheetsのセルをピクセルに見立てて動画をモザイク再生するChrome拡張機能 |
-| 38 | PUNCH PUNCH PUNCH | https://punch-orpin.vercel.app/ | 市川市動植物園の子ザル・パンチくんの動画が無限に流れるTikTok風サイト |
+| 38 | PUNCH PUNCH PUNCH | https://punch-orpin.vercel.app/ | パンチくん（子ザル）の縦型動画をタップで次々送れるTikTok風フィード |
 | 39 | Silent Call | https://paul13131313.github.io/yobidashi/ | 飲食店で声を出さずに店員を呼べるアプリ（Vite + React + TypeScript） |
 | 40 | AUDIO UNIVERSE | https://paul13131313.github.io/audio-universe/ | WebGPU × Web Audio APIで音楽を宇宙に変換するオーディオビジュアライザー |
 | 41 | AUTO MV | https://paul13131313.github.io/auto-mv/ | 音楽のムード・テンポ・周波数に合わせた映像をリアルタイム自動生成 |
