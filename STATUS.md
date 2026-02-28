@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 39件
+## WORKS（プロダクト開発）— 48件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -51,6 +51,15 @@
 | 37 | SHEET MOVIE | https://paul13131313.github.io/sheet-movie/ | Google Sheetsのセルをピクセルに見立てて動画をモザイク再生するChrome拡張機能 |
 | 38 | PUNCH PUNCH PUNCH | https://punch-orpin.vercel.app/ | 市川市動植物園の子ザル・パンチくんの動画が無限に流れるTikTok風サイト |
 | 39 | Silent Call | https://paul13131313.github.io/yobidashi/ | 飲食店で声を出さずに店員を呼べるアプリ（Vite + React + TypeScript） |
+| 40 | AUDIO UNIVERSE | https://paul13131313.github.io/audio-universe/ | WebGPU × Web Audio APIで音楽を宇宙に変換するオーディオビジュアライザー |
+| 41 | AUTO MV | https://paul13131313.github.io/auto-mv/ | 音楽のムード・テンポ・周波数に合わせた映像をリアルタイム自動生成 |
+| 42 | DESIGN STYLE LIBRARY | https://paul13131313.github.io/design-style-catalog/ | Webデザインリファレンスのビジュアルカタログ |
+| 43 | LIQUID WALL | https://paul13131313.github.io/liquid-wall/ | WEB会議用インタラクティブ流体背景 |
+| 44 | MY RANKING | https://paul13131313.github.io/ranking-battle/ | ランキング・バトル・統計機能を備えたポータルサイト |
+| 45 | SHASO | https://paul13131313.github.io/shaso/ | インタラクティブメディアアート |
+| 46 | AI STUDIO PAUL | https://paul13131313.github.io/studio-paul/ | ポートフォリオ＆スタジオサイト |
+| 47 | 好きなものに囲まれたい | https://paul13131313.github.io/surrounded-by-favorites/ | 好きなもの8つに囲まれたコラージュを生成。顔認識×画像合成 |
+| 48 | 台湾味覺散歩 | https://paul13131313.github.io/taiwan-food-guide/ | 台湾のグルメガイド |
 
 ---
 
