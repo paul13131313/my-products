@@ -104,3 +104,11 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード（予定）
 - クライアント: サンドウさん（We MEMBER）
 - 次のステップ: Supabase接続でデータ永続化 → Phase 2 THANKSカード
+## We TASK（開発中）
+- リポジトリ: wetask
+- URL: https://wetask-two.vercel.app
+- 状態: 🟡 Phase 1 運用テスト中
+- 技術: Next.js + Vercel KV
+- 概要: チームの雑務を見える化するNotionライクなボード
+- クライアント: We MEMBER（サンドウさん）
+- 次のステップ: Phase 2 THANKSカード / Chatwork通知
