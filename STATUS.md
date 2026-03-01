@@ -32,7 +32,7 @@
 | 18 | NIGHT QUEEN | https://paul13131313.github.io/night-queen/ | 夜の女王への成り上がりタップゲーム |
 | 19 | meeeeeeen | https://meeeeeeen.vercel.app | 世界中の麺動画が無限に流れ続ける |
 | 20 | necoo | https://necoo.vercel.app | 猫動画が無限に流れるショート動画フィード |
-| 21 | 生成新聞 | https://paul13131313.github.io/generated-news/ | AI生成パーソナライズド新聞 |
+| 21 | 生成新聞 | https://seiseishinbun.com/ | AI生成パーソナライズド新聞（独自ドメイン・メール配信対応） |
 | 22 | DM to PPTX | https://paul13131313.github.io/dm-to-pptx/ | チラシを自動でPowerPointに変換 |
 | 23 | foodphoto | https://paul13131313.github.io/foodphoto/ | 食に関する写真だけをピックアップ |
 | 24 | shred | https://paul13131313.github.io/guitar/ | 速弾きできるギターアプリ |
