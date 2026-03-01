@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 49件
+## WORKS（プロダクト開発）— 50件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -61,6 +61,7 @@
 | 47 | 好きなものに囲まれたい | https://paul13131313.github.io/surrounded-by-favorites/ | 好きなもの8つに囲まれたコラージュを生成。顔認識×画像合成 |
 | 48 | 台湾味覺散歩 | https://paul13131313.github.io/taiwan-food-guide/ | 台湾のグルメガイド |
 | 49 | KANJI ME | https://kanji-me.vercel.app | 英語の名前をAIで美しい漢字に変換。名前別URL＋動的OGPでバイラルシェア・SEO事前生成100名・Analytics計測・画像保存・PWA対応のフリーミアムアプリ |
+| 50 | 台灣生成新聞 | https://paul13131313.github.io/taiwan-generated-news/taiwan-news-final.html | 台湾のニュースをAIが翻訳・要約して毎日届ける新聞風メディア |
 
 ---
 
