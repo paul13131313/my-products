@@ -107,3 +107,10 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 中止理由: Gemini API無料枠の制限 + 生成されるSpec（演出仕様）のクオリティが実用レベルに達しなかった
 - 技術: Node.js + Gemini API (動画理解) + Playwright
 - 学び: Geminiの動画→構造化テキスト変換は、現時点では細かい演出仕様の抽出精度が不十分
+## いま家？（開発中）
+- リポジトリ: ima-ie
+- URL: 未定
+- 状態: 🟡 Phase 1 開発中
+- 技術: Next.js + Upstash Redis + Vercel + SwitchBot API
+- 概要: SwitchBotシーリングライトのON/OFFで在宅/就寝/外出を自動判定するステータスアプリ
+- 備考: 将来Sesameスマートロック連携予定（WiFiモジュール2が必要）
