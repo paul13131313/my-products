@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 51件
+## WORKS（プロダクト開発）— 52件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -63,6 +63,7 @@
 | 49 | KANJI ME | https://kanji-me.vercel.app | 英語の名前をAIで美しい漢字に変換。名前別URL＋動的OGPでバイラルシェア・SEO事前生成100名・Analytics計測・画像保存・PWA対応のフリーミアムアプリ |
 | 50 | 台灣生成新聞 | https://taiwan-generated-news.vercel.app/ | 台湾8メディアのニュースをAI翻訳・要約。為替・株価・天気リアルタイム表示、日本企業台湾進出事例、メール配信対応。Next.js + Vercel Cron + Resend |
 | 51 | WORLD LIVE CAMERAS | https://paul13131313.github.io/worldlivecameras/ | 世界中のYouTubeライブカメラを監視ルームのように一覧表示するサイト |
+| 52 | INFINITE WINDOW | https://paul13131313.github.io/infinite-window/ | Windows 98のGDIバグを再現するシミュレーター。ウィンドウをドラッグすると残像が消えずに積み重なり画面が壊れていく |
 
 ---
 
