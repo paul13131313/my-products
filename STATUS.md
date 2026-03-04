@@ -64,7 +64,7 @@
 | 50 | 台灣生成新聞 | https://taiwan-generated-news.vercel.app/ | 台湾8メディアのニュースをAI翻訳・要約。為替・株価・天気リアルタイム表示、日本企業台湾進出事例、メール配信対応。Next.js + Vercel Cron + Resend |
 | 51 | WORLD LIVE CAMERAS | https://paul13131313.github.io/worldlivecameras/ | 世界中のYouTubeライブカメラを監視ルームのように一覧表示するサイト |
 | 52 | INFINITE WINDOW | https://paul13131313.github.io/infinite-window/ | Windows 98のGDIバグを再現するシミュレーター。ウィンドウをドラッグすると残像が消えずに積み重なり画面が壊れていく |
-| 53 | MONEY TRAIL | https://money-trail-flax.vercel.app | 商品の価格がどこに流れるか、サプライチェーンのお金の流れをSankeyダイアグラムで可視化するWebアプリ |
+| 53 | MONEY TRAIL | https://money-trail-flax.vercel.app | 商品の価格がどこに流れるか、お金の流れをSankeyダイアグラムで可視化。Claude Haiku APIによるAI推定機能で任意の商品のコスト内訳をリアルタイム生成。カテゴリタブ（商品/人生/エンタメ/闇）対応 |
 
 ---
 
