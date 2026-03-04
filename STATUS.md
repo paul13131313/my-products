@@ -65,7 +65,7 @@
 | 51 | WORLD LIVE CAMERAS | https://paul13131313.github.io/worldlivecameras/ | 世界中のYouTubeライブカメラを監視ルームのように一覧表示するサイト |
 | 52 | INFINITE WINDOW | https://paul13131313.github.io/infinite-window/ | Windows 98のGDIバグを再現するシミュレーター。ウィンドウをドラッグすると残像が消えずに積み重なり画面が壊れていく |
 | 53 | MONEY TRAIL | https://money-trail-flax.vercel.app | 商品の価格がどこに流れるか、お金の流れをSankeyダイアグラムで可視化。Claude Haiku APIによるAI推定機能で任意の商品のコスト内訳をリアルタイム生成。カテゴリタブ（商品/人生/エンタメ/闇）対応 |
-| 54 | KAFUN PARAPARA | https://kafunparapara.vercel.app | リアルタイム花粉データ連動の花粉トラッカー。ギャルキャラの3Dアニメーションが花粉レベルに応じて変化。Canvas花粉パーティクル・気象情報表示 |
+| 54 | KAFUN PARAPARA | https://kafunparapara.vercel.app | リアルタイム花粉データ連動の花粉トラッカー。ギャル3Dキャラアニメーション×花粉レベル5段階×Canvas花粉パーティクル。気温・風速・季節ベース花粉推定ロジック・スプラッシュ画面・隠しデバッグコマンド付き |
 
 ---
 
