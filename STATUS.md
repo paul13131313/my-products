@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 57件
+## WORKS（プロダクト開発）— 58件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -69,6 +69,7 @@
 | 55 | テープ貼るやつ (tepla-studio) | https://tepla-studio.vercel.app/ | ブラウザで作るラベルシミュレーター。テープの色・幅・書体・字幅・向き・内枠を選択しボード上に自由に配置。ドラッグ移動、回転、インライン編集、個別/全体PNG書き出し対応 |
 | 56 | 走馬灯 - SOMATO | https://somarou.vercel.app | 写真が走馬灯のように駆け巡る動画を生成。速度パターン3種＋BGMミキシング、ブラウザ完結で9:16縦型WebM出力 |
 | 57 | 画面崩壊 | https://screenshot-shake.vercel.app/ | スクショをアップロードしてタップすると画面がバラバラに崩れ落ちる。行ベースエッジ検出でUI要素を自動分割、自前物理エンジンでCRACK→FALLの2段階崩壊演出 |
+| 58 | 業界紙つくーる | https://paul13131313.github.io/tsukuru-lp/ | AI生成業界紙・メルマガSaaS。Stripe決済→ヒアリング→Claude API（web_search付き）で業界紙自動生成→クライアント承認→Resend Broadcastで読者配信。LP+Cloudflare Workers+KVの完全自動化パイプライン |
 
 ---
 
@@ -123,7 +124,10 @@ Claude Codeで作業後、このファイルを更新してgit push。
 ## 業界紙つくーる（公開中）
 - リポジトリ: tsukuru-lp
 - URL: https://paul13131313.github.io/tsukuru-lp/
+- Worker: https://tsukuru-hearing.hiroshinagano0113.workers.dev
 - 状態: ✅ 公開中
-- 技術: HTML, CSS, JavaScript, Formspree, GitHub Pages
-- 概要: AI生成業界紙・メルマガ制作配信代行サービスのランディングページ
-- 機能: 5業種サンプル（不動産・士業・製造業・海外進出・日常版）、3料金プラン、事例紹介（台湾ビジネス版・生成新聞）、FAQ、免責事項
+- 技術: HTML/CSS/JS（LP）+ Cloudflare Workers + Workers KV + Stripe Checkout/Webhooks + Claude API（web_search付き）+ Resend API + GitHub Pages
+- 概要: AI生成業界紙・メルマガ制作配信代行SaaS
+- LP機能: 5業種サンプル（不動産・士業・製造業・海外進出・日常版）、3料金プラン、事例紹介、FAQ、免責事項
+- SaaS機能: Stripe決済→6問ヒアリング→Claude APIで業界紙自動生成（web_search連動で最新データ取得）→クライアント承認ページ→Resend Broadcastで読者一斉配信。月次自動更新（invoice.payment_succeeded→次号自動生成→承認フロー）
+- 料金: Starter ¥9,800/月、Standard ¥19,800/月、Premium ¥39,800/月
