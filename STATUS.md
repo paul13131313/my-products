@@ -120,3 +120,10 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 技術: Next.js + Upstash Redis + Vercel + SwitchBot API
 - 概要: SwitchBotシーリングライトのON/OFFで在宅/就寝/外出を自動判定するステータスアプリ
 - 備考: 将来Sesameスマートロック連携予定（WiFiモジュール2が必要）
+## 業界紙つくーる（公開中）
+- リポジトリ: tsukuru-lp
+- URL: https://paul13131313.github.io/tsukuru-lp/
+- 状態: ✅ 公開中
+- 技術: HTML, CSS, JavaScript, Formspree, GitHub Pages
+- 概要: AI生成業界紙・メルマガ制作配信代行サービスのランディングページ
+- 機能: 5業種サンプル（不動産・士業・製造業・海外進出・日常版）、3料金プラン、事例紹介（台湾ビジネス版・生成新聞）、FAQ、免責事項
