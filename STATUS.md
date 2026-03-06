@@ -149,3 +149,10 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - LP機能: 5業種サンプル（不動産・士業・製造業・海外進出・日常版）、3料金プラン、事例紹介、FAQ、免責事項
 - SaaS機能: Stripe決済→6問ヒアリング→Claude APIで業界紙自動生成（web_search連動で最新データ取得）→クライアント承認ページ→Resend Broadcastで読者一斉配信。月次自動更新（invoice.payment_succeeded→次号自動生成→承認フロー）
 - 料金: Starter ¥9,800/月、Standard ¥19,800/月、Premium ¥39,800/月
+## NUISMO（ぬいすも）
+- リポジトリ: nuismo
+- URL: https://nuismo.vercel.app
+- 状態: 🟢 公開中
+- 技術: Next.js (App Router) + TypeScript + Tailwind CSS + Ably Realtime + Vercel
+- 概要: ぬいぐるみたちがリアルタイムで集まるバーチャル喫煙所
+- 機能: Ably Presenceで同時接続管理、5種キャラ自動割当、向き合いロジック、煙＆微動アニメーション、「火を借りる」インタラクション、休憩タイマー（3/5/10/15分、バイブ通知）
