@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 59件
+## WORKS（プロダクト開発）— 60件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -71,6 +71,7 @@
 | 57 | 画面崩壊 | https://screenshot-shake.vercel.app/ | スクショをアップロードしてタップすると画面がバラバラに崩れ落ちる。行ベースエッジ検出でUI要素を自動分割、自前物理エンジンでCRACK→FALLの2段階崩壊演出 |
 | 58 | 業界紙つくーる | https://paul13131313.github.io/tsukuru-lp/ | AI生成業界紙・メルマガSaaS。Stripe決済→ヒアリング→Claude API（web_search付き）で業界紙自動生成→クライアント承認→Resend Broadcastで読者配信。LP+Cloudflare Workers+KVの完全自動化パイプライン |
 | 59 | 散歩記録 | https://sanpo-kiroku.vercel.app | GPS連動の散歩記録アプリ。ルート重ね合わせ表示とCanvas描画によるアート抽出が特徴。リアルタイムGPS軌跡・距離/時間計測・全ルート重ねマップ・線画アート出力 |
+| 60 | 散歩記録 Expo版 | EASビルド（iOS） | iOSネイティブ散歩記録アプリ。Apple Maps連携・バックグラウンドGPS記録・SVGルートアート（地図背景ON/OFF対応）・カメラロール保存 |
 
 ---
 
@@ -129,6 +130,13 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 技術: Next.js + TypeScript + Leaflet.js + OpenStreetMap + Vercel KV
 - 概要: GPS連動の散歩記録アプリ。ルート重ね合わせ表示とCanvas描画によるアート抽出が特徴
 - 機能: リアルタイムGPS軌跡・距離/時間計測・全ルート重ねマップ・線画アート出力
+## 散歩記録 Expo版
+- リポジトリ: sanpo-kiroku-expo（devモノレポ内）
+- 状態: 🟡 EASビルド中
+- 技術: React Native + Expo SDK 54 + TypeScript + expo-location + react-native-maps + react-native-svg + AsyncStorage + EAS Build
+- 概要: iOSネイティブ版散歩記録アプリ。Apple Maps連携・バックグラウンドGPS記録対応
+- 機能: GPS記録（フォアグラウンド/バックグラウンド）・Apple Maps地図表示・散歩履歴・SVGルートアート（地図背景ON/OFF）・カメラロール保存
+- バンドルID: com.paul19820113.sanpokiroku
 ## 業界紙つくーる（公開中）
 - リポジトリ: tsukuru-lp
 - URL: https://paul13131313.github.io/tsukuru-lp/
