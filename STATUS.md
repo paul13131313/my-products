@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 58件
+## WORKS（プロダクト開発）— 59件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -70,6 +70,7 @@
 | 56 | 走馬灯 - SOMATO | https://somarou.vercel.app | 写真が走馬灯のように駆け巡る動画を生成。速度パターン3種＋BGMミキシング、ブラウザ完結で9:16縦型WebM出力 |
 | 57 | 画面崩壊 | https://screenshot-shake.vercel.app/ | スクショをアップロードしてタップすると画面がバラバラに崩れ落ちる。行ベースエッジ検出でUI要素を自動分割、自前物理エンジンでCRACK→FALLの2段階崩壊演出 |
 | 58 | 業界紙つくーる | https://paul13131313.github.io/tsukuru-lp/ | AI生成業界紙・メルマガSaaS。Stripe決済→ヒアリング→Claude API（web_search付き）で業界紙自動生成→クライアント承認→Resend Broadcastで読者配信。LP+Cloudflare Workers+KVの完全自動化パイプライン |
+| 59 | 散歩記録 | https://sanpo-kiroku.vercel.app | GPS連動の散歩記録アプリ。ルート重ね合わせ表示とCanvas描画によるアート抽出が特徴。リアルタイムGPS軌跡・距離/時間計測・全ルート重ねマップ・線画アート出力 |
 
 ---
 
@@ -121,6 +122,13 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 技術: Next.js + Upstash Redis + Vercel + SwitchBot API
 - 概要: SwitchBotシーリングライトのON/OFFで在宅/就寝/外出を自動判定するステータスアプリ
 - 備考: 将来Sesameスマートロック連携予定（WiFiモジュール2が必要）
+## 散歩記録
+- リポジトリ: sanpo-kiroku
+- URL: https://sanpo-kiroku.vercel.app
+- 状態: 🟢 公開中
+- 技術: Next.js + TypeScript + Leaflet.js + OpenStreetMap + Vercel KV
+- 概要: GPS連動の散歩記録アプリ。ルート重ね合わせ表示とCanvas描画によるアート抽出が特徴
+- 機能: リアルタイムGPS軌跡・距離/時間計測・全ルート重ねマップ・線画アート出力
 ## 業界紙つくーる（公開中）
 - リポジトリ: tsukuru-lp
 - URL: https://paul13131313.github.io/tsukuru-lp/
