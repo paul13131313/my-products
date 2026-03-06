@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 60件
+## WORKS（プロダクト開発）— 61件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -72,6 +72,7 @@
 | 58 | 業界紙つくーる | https://paul13131313.github.io/tsukuru-lp/ | AI生成業界紙・メルマガSaaS。Stripe決済→ヒアリング→Claude API（web_search付き）で業界紙自動生成→クライアント承認→Resend Broadcastで読者配信。LP+Cloudflare Workers+KVの完全自動化パイプライン |
 | 59 | 散歩記録 | https://sanpo-kiroku.vercel.app | GPS連動の散歩記録アプリ。ルート重ね合わせ表示とCanvas描画によるアート抽出が特徴。リアルタイムGPS軌跡・距離/時間計測・全ルート重ねマップ・線画アート出力 |
 | 60 | 散歩記録 Expo版 | EASビルド（iOS） | iOSネイティブ散歩記録アプリ。Apple Maps連携・バックグラウンドGPS記録・SVGルートアート（地図背景ON/OFF対応）・カメラロール保存 |
+| 61 | PROTOTIPER | https://prototiper.vercel.app | AIが毎日1業種のWebサイトプロトタイプを自動生成する見本市サイト。Unsplash写真入りキービジュアル、18種類のデザインスタイルカタログからスタイル適用、Vercel Cron Jobで毎朝自動生成 |
 
 ---
 
