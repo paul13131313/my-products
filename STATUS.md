@@ -155,4 +155,4 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 状態: 🟢 公開中
 - 技術: Next.js (App Router) + TypeScript + Tailwind CSS + Ably Realtime + Vercel
 - 概要: ぬいぐるみたちがリアルタイムで集まるバーチャル喫煙所
-- 機能: Ably Presenceで同時接続管理、5種キャラ自動割当、デフォルト向き定義による向き合いロジック、煙パーティクル（mix-blend-mode）＆微動アニメーション、「火を借りる」スライドインタラクション（1回限り）、常駐NPCぬいぐるみ
+- 機能: Ably Presenceで同時接続管理、5種キャラ自動割当（NPC重複回避）、デフォルト向き定義による向き合いロジック、煙パーティクル（mix-blend-mode）＆微動アニメーション、「火を借りる」スライド→煙開始インタラクション（1回限り）、常駐NPCぬいぐるみ、環境音BGM
