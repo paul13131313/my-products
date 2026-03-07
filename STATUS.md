@@ -74,7 +74,7 @@
 | 60 | 散歩記録 Expo版 | EASビルド（iOS） | iOSネイティブ散歩記録アプリ。Apple Maps連携・バックグラウンドGPS記録・SVGルートアート（地図背景ON/OFF対応）・カメラロール保存 |
 | 61 | PROTOTIPER | https://prototiper.vercel.app | AIが毎日1業種のWebサイトプロトタイプを自動生成する見本市サイト。Unsplash写真入りキービジュアル、18種類のデザインスタイルカタログからスタイル適用、Vercel Cron Jobで毎朝自動生成 |
 | 62 | 占星新聞 | https://paul13131313.github.io/sensei-shinbun/ | 毎朝AIが生成するパーソナライズ占い新聞。生年月日・MBTI・血液型からClaude Haikuが星読み紙面を生成。オーロラ背景UI・天気データ連携・Cloudflare Workers KVキャッシュ |
-| 63 | Sanpos | TestFlight配信中 | 散歩を記録・共有するソーシャルウォーキングアプリ（YAMAPの散歩版）。GPS記録・写真スポット・タグ・公開タイムライン・Supabaseリアルタイム同期 |
+| 63 | Sanpos | https://paul13131313.github.io/sanpos-lp/ | 散歩を記録・共有するソーシャルウォーキングアプリ（YAMAPの散歩版）。GPS記録・写真スポット・タグ・公開タイムライン・Supabaseリアルタイム同期 |
 
 ---
 
@@ -159,7 +159,8 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 機能: Ably Presenceで同時接続管理、5種キャラ自動割当（NPC重複回避）、デフォルト向き定義による向き合いロジック、煙パーティクル（mix-blend-mode）＆微動アニメーション、「火を借りる」スライド→煙開始インタラクション（1回限り）、常駐NPCぬいぐるみ、環境音BGM
 ## Sanpos（TestFlight配信中）
 - リポジトリ: sanpos
-- URL: TestFlight (App ID: 6760219795)
+- URL: https://paul13131313.github.io/sanpos-lp/
+- TestFlight: App ID 6760219795
 - 状態: 🟡 TestFlight配信中
 - 技術: Expo (React Native) + Supabase + Mapbox + EAS Build
 - 概要: 散歩を記録・共有するソーシャルアプリ（YAMAPの散歩版）
