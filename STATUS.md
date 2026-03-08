@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 64件
+## WORKS（プロダクト開発）— 65件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -76,6 +76,7 @@
 | 62 | 占星新聞 | https://paul13131313.github.io/sensei-shinbun/ | 毎朝AIが生成するパーソナライズ占い新聞。生年月日・MBTI・血液型からClaude Haikuが星読み紙面を生成。オーロラ背景UI・天気データ連携・Cloudflare Workers KVキャッシュ |
 | 63 | Sanpos | https://paul13131313.github.io/sanpos-lp/ | 散歩を記録・共有するソーシャルウォーキングアプリ（YAMAPの散歩版）。GPS記録・写真スポット・タグ・公開タイムライン・Supabaseリアルタイム同期 |
 | 64 | 私を構成する3つの言葉 | https://paul13131313.github.io/watashi-3words/ | 自分を構成する3つの言葉を入力してシェア画像を生成するツール。Next.js + Canvas API + Tailwind CSS |
+| 65 | SKILLS TEXTBOOK | https://paul13131313.github.io/skills-textbook/ | 40+プロジェクトの技術を逆引きで学べるインタラクティブHTML教科書 |
 
 ---
 
