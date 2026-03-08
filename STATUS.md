@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 65件
+## WORKS（プロダクト開発）— 66件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -77,6 +77,7 @@
 | 63 | Sanpos | https://paul13131313.github.io/sanpos-lp/ | 散歩を記録・共有するソーシャルウォーキングアプリ（YAMAPの散歩版）。GPS記録・写真スポット・タグ・公開タイムライン・Supabaseリアルタイム同期 |
 | 64 | 私を構成する3つの言葉 | https://paul13131313.github.io/watashi-3words/ | 自分を構成する3つの言葉を入力してシェア画像を生成するツール。Next.js + Canvas API + Tailwind CSS |
 | 65 | SKILLS TEXTBOOK | https://paul13131313.github.io/skills-textbook/ | 40+プロジェクトの技術を逆引きで学べるインタラクティブHTML教科書 |
+| 66 | まなべーる | https://manaberu.vercel.app/ | 知りたい分野を入力するだけでAI教科書＋問題集を自動生成 |
 
 ---
 
@@ -171,3 +172,10 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - Phase 3: バッジ・動画生成・季節イベント
 - バンドルID: com.paul19820113.sanpos
 - 機能: GPS記録（フォア/バックグラウンド）・Apple Maps地図表示・写真スポット記録・タグシステム（14種4カテゴリ）・公開タイムライン（じぶん/みんな切替）・Supabaseリアルタイム同期・スタガードカードアニメーション・記録中ドット点滅
+## まなべーる
+- リポジトリ: manaberu
+- URL: https://manaberu.vercel.app/
+- 状態: 🟢 公開中
+- 技術: Next.js (App Router) + TypeScript + Tailwind CSS + Anthropic Claude API + Stripe
+- 概要: 知りたい分野を入力するだけでAI教科書と問題集のセットを自動生成するWebアプリ
+- 特徴: 対話型フロー（目次生成→承認→本文生成）、Stripe決済統合、選択式自動採点＋記述式模範解答
