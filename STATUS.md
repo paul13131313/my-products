@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 71件
+## WORKS（プロダクト開発）— 72件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -83,6 +83,7 @@
 | 69 | AUTONOTE | https://paul13131313.github.io/autonote/ | ポートフォリオ管理からnote記事の下書き作成まで、ターミナルから自動化するCLIツールキット。Node.js + Playwright + Bash |
 | 70 | FINANCIAL BALANCE CHECKER | https://financial-balance-checker.vercel.app | 社会イベント→キーファクター→金融資産リバランス提案の3段階因果連鎖を可視化する意思決定支援ツール。8シナリオ対応。Next.js + TypeScript + Tailwind CSS |
 | 71 | pol | https://pol-rouge.vercel.app | 8bit RPG風の進化シミュレーション。トップダウンフィールドで生命が単細胞→両生類→鳥類→哺乳類→人類へ進化し、文明を築き、やがて創造主に語りかける。Vite + React + Canvas API + Claude API |
+| 72 | 自伝メーカー | https://autobiography-maker.vercel.app | AIが偉人伝スタイルであなたの人生を壮大に綴る自伝生成サービス。18の質問→Claude Opus 4.5が自伝生成。写真アップロード・印刷対応。Next.js 16 + TypeScript + Tailwind CSS |
 
 ---
 
