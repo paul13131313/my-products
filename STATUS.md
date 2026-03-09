@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 69件
+## WORKS（プロダクト開発）— 70件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -81,6 +81,7 @@
 | 67 | FAKE HACK | https://fakehack-xi.vercel.app/ | 怪しいリンクをタップすると偽ハッキング演出→セキュリティ啓発に着地するドッキリサイト |
 | 68 | セキュリティ意識テスト 2026 | https://security-test-2026.vercel.app/ | 50問の診断テストでフィジカル防犯・デジタル・海外旅行・詐欺・職場の5カテゴリからセキュリティ意識を偏差値・ランク判定。Windows 95風レトロUI・結果URL共有対応 |
 | 69 | AUTONOTE | https://paul13131313.github.io/autonote/ | ポートフォリオ管理からnote記事の下書き作成まで、ターミナルから自動化するCLIツールキット。Node.js + Playwright + Bash |
+| 70 | FINANCIAL BALANCE CHECKER | https://financial-balance-checker.vercel.app | 社会イベント→キーファクター→金融資産リバランス提案の3段階因果連鎖を可視化する意思決定支援ツール。8シナリオ対応。Next.js + TypeScript + Tailwind CSS |
 
 ---
 
