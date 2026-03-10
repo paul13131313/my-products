@@ -61,7 +61,7 @@
 | 47 | 好きなものに囲まれたい | https://paul13131313.github.io/surrounded-by-favorites/ | 好きなもの8つに囲まれたコラージュを生成。顔認識×画像合成 |
 | 48 | 台湾味覺散歩 | https://paul13131313.github.io/taiwan-food-guide/ | 台湾のグルメガイド |
 | 49 | KANJI ME | https://kanji-me.vercel.app | 英語の名前をAIで美しい漢字に変換。名前別URL＋動的OGPでバイラルシェア・SEO事前生成100名・Analytics計測・画像保存・PWA対応のフリーミアムアプリ |
-| 50 | 台灣生成新聞 | https://taiwan-generated-news.vercel.app/ | 台湾11メディアRSSからAIが毎朝キュレーション。6コーナー構成（トレンド/カフェ＆グルメ/ビューティー＆ブランド/SNSバズ/台湾人が見ている日本/台湾文化史）。TAIEX株価・台北天気ヘッダー、新聞風レイアウト、メール配信対応。Next.js + Vercel Cron + Resend |
+| 50 | 台灣生成新聞 | https://taiwan-generated-news.vercel.app/ | 台湾11メディアRSSからAIが毎朝キュレーション。6コーナー構成（トレンド/カフェ＆グルメ/ビューティー＆ブランド/SNSバズ/台湾人が見ている日本/台湾文化史）。TAIEX株価・台北天気ヘッダー、新聞風レイアウト、メール配信対応（配信解除リンク付き）。管理画面：ダッシュボード（URLコピー・配信状況）・号数リセット・読者管理・ページプレビュー。Next.js + Vercel Cron + Resend |
 | 51 | WORLD LIVE CAMERAS | https://paul13131313.github.io/worldlivecameras/ | 世界中のYouTubeライブカメラを監視ルームのように一覧表示するサイト |
 | 52 | INFINITE WINDOW | https://paul13131313.github.io/infinite-window/ | Windows 98のGDIバグを再現するシミュレーター。ウィンドウをドラッグすると残像が消えずに積み重なり画面が壊れていく |
 | 53 | MONEY TRAIL | https://money-trail-flax.vercel.app | 商品の価格がどこに流れるか、お金の流れをSankeyダイアグラムで可視化。Claude Haiku APIによるAI推定機能で任意の商品のコスト内訳をリアルタイム生成。カテゴリタブ（商品/人生/エンタメ/闇）対応 |
