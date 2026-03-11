@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 79件
+## WORKS（プロダクト開発）— 80件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -191,6 +191,7 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 77 | 激写！熱愛メーカー | https://paul13131313.github.io/scoop/ | 写真1枚から写真週刊誌・中吊り・ワイドショー・SNSの4つの熱愛スクープ画像を自動生成 |
 | 78 | AIで稼いだお金の話をしよう | https://ai-money-redirect.vercel.app/ | 「AIで稼いだお金の話」と見せかけてリダイレクトするジョークページ。ゴールド×黒のリッチなデザインとカウントダウン演出付き |
 | 79 | SWITCH MUSEUM | https://paul13131313.github.io/switch-museum/ | 100種のスイッチUIが並ぶ博物館。ONにするたびサイトの照明が落ちていく体験型サイト |
+| 80 | nines | https://nines-seven.vercel.app | 好きなコンテンツ9つでつながるキュレーションマッチングSNS |
 
 ## あんたなんぼなん？
 - リポジトリ: moroton
@@ -208,3 +209,10 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 概要: 写真1枚アップで4種の熱愛スクープ報道風画像を生成するジェネレーター
 - 出力: 写真週刊誌見開き / 中吊り広告 / TVワイドショー / SNS Xリプライスレッド
 - 特徴: APIコスト0、全てクライアントサイドCanvas描画、GitHub Pagesデプロイ
+## nines
+- リポジトリ: nines
+- URL: https://nines-seven.vercel.app
+- 状態: 🟢 公開中
+- 技術: Next.js + TypeScript + Tailwind CSS + Supabase + OMDB API + Jikan API + RAWG API + Google Books API
+- 概要: 好きなコンテンツを9マスに並べるキュレーションSNS。共通コンテンツ一致率でマッチングするソーシャルアプリ
+- 機能: 9マス編集（コンテンツ検索API連携）・マイページ・みんなのページ・マッチ率表示・OGPシェア・Xシェア・画像保存・フォロー/フォロワー・タイムライン・マッチ通知バッジ
