@@ -187,3 +187,13 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 技術: Next.js (App Router) + TypeScript + Tailwind CSS + Anthropic Claude API + Stripe + html2pdf.js
 - 概要: 知りたい分野を入力するだけでAI教科書と問題集のセットを自動生成するWebアプリ
 - 特徴: 対話型フロー（目次生成→承認→本文生成）、Stripe決済統合（¥300/冊）、選択式自動採点＋記述式模範解答、表紙ページ、PDFダウンロード、localStorage購入済み教科書保存・再閲覧
+| 76 | あんたなんぼなん？ | https://moroton.vercel.app | 関西のオバちゃんAIがチャット形式で適正年収を査定。偏差値・世界/国内/業界ランク（S〜D）表示 |
+
+## あんたなんぼなん？
+- リポジトリ: moroton
+- URL: https://moroton.vercel.app
+- 状態: 🟢 公開中
+- 技術: Next.js (App Router) + TypeScript + Tailwind CSS + Anthropic Claude API
+- 概要: 関西のオバちゃんAIがチャット形式で適正年収を査定する診断ツール
+- 特徴: 9問のチャット質問→AI適正年収算出→偏差値・3視点ランキング（全世界/国内/業界）・S〜Dランク判定・シェア画像生成
+- デプロイ: Vercel（GitHub push で自動デプロイ）
