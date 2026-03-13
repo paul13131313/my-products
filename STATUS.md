@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 84件
+## WORKS（プロダクト開発）— 85件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -196,6 +196,7 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 82 | shirome（白目ジェネレーター） | https://paul13131313.github.io/shirome/ | face-api.jsで顔の目を検出し白い楕円で白目化する画像ジェネレーター。React + TypeScript + face-api.js + Canvas API + Vite |
 | 83 | 名刺バトラー (meishi-battler) | https://meishi-battler.vercel.app | Claude Vision APIで名刺を解析し戦闘力を算出してバトルするWebアプリ。コロコロコミック風POPデザインにリニューアル（Dela Gothic One + M PLUS Rounded 1c、ネオンカラー、コミックスタイルCSS）。Next.js + TypeScript + Tailwind CSS + Claude Vision API + Vercel |
 | 84 | 戒名メーカー | https://kaimyo.vercel.app | 5つの質問に答えるとClaude APIが民明書房風解説付き戒名を生成。和紙風・縦書きデザイン。Next.js + TypeScript + Claude API + Noto Serif JP + CSS writing-mode |
+| 85 | そろそろbot | https://sorosoro-bot.vercel.app | 季節のイベントを「そろそろ準備しなきゃ」のタイミングで届けるLINE Bot。27の季節イベントを毎朝9時に自動通知。Next.js + LINE Messaging API + Vercel Cron + TypeScript |
 
 ## OGP IMAGE API
 - リポジトリ: og-api
@@ -228,3 +229,12 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 技術: Next.js 16 + TypeScript + Tailwind CSS v4 + Supabase (Auth + RLS + Storage) + OMDB API + Jikan API + RAWG API + Google Books API + iTunes Search API + next/og + PWA
 - 概要: 好きなコンテンツを9マスに並べるキュレーションSNS。共通コンテンツ一致率でマッチングするソーシャルアプリ
 - 機能: 9マス編集（映画・ドラマ・音楽・ゲーム・マンガ・小説・その他）・マイページ・みんなのページ・マッチ率表示・OGPシェア・Xシェア・画像保存・フォロー/フォロワー・タイムライン・マッチ通知バッジ・アバターアップロード・コンテンツ履歴（Past Nines）・PWA対応
+## そろそろbot
+- リポジトリ: sorosoro-bot
+- URL: https://sorosoro-bot.vercel.app
+- GitHub: https://github.com/paul13131313/sorosoro-bot
+- 状態: 🟢 公開中
+- 技術: Next.js + LINE Messaging API + Vercel Cron + TypeScript
+- 概要: 季節のイベントを「そろそろ準備しなきゃ」のタイミングで届けるLINE Bot
+- 機能: 27の季節イベントを毎朝9時に自動通知
+- デプロイ: Vercel（GitHub push で自動デプロイ）
