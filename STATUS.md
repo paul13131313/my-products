@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 80件
+## WORKS（プロダクト開発）— 81件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -192,6 +192,15 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 78 | AIで稼いだお金の話をしよう | https://ai-money-redirect.vercel.app/ | 「AIで稼いだお金の話」と見せかけてリダイレクトするジョークページ。ゴールド×黒のリッチなデザインとカウントダウン演出付き |
 | 79 | SWITCH MUSEUM | https://paul13131313.github.io/switch-museum/ | 100種のスイッチUIが並ぶ博物館。ONにするたびサイトの照明が落ちていく体験型サイト |
 | 80 | nines | https://nines-seven.vercel.app | 好きなコンテンツ9つを3×3グリッドに並べるキュレーションSNS。映画・ドラマ・音楽・ゲーム・マンガ・小説から選んでマッチング |
+| 81 | OGP IMAGE API | https://og-api-self.vercel.app | URLにタイトルとカテゴリを渡すだけで全プロダクト統一デザインのOGP画像(1200x630px)を動的生成するAPI |
+
+## OGP IMAGE API
+- リポジトリ: og-api
+- URL: https://og-api-self.vercel.app
+- 状態: 🟢 公開中
+- 技術: Next.js 16 + TypeScript + @vercel/og (Satori + Resvg) + Noto Sans JP + JetBrains Mono
+- 概要: URLパラメータ(title, category)からブランド統一OGP画像を動的生成するAPI。全プロダクトのmetaタグに設定して統一ビジュアルを実現
+- 機能: 動的OGP画像生成(1200x630px)・日本語禁則処理・メッシュグラデーション背景・1年キャッシュ・解説ページ付き
 
 ## あんたなんぼなん？
 - リポジトリ: moroton
