@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 81件
+## WORKS（プロダクト開発）— 82件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -193,6 +193,7 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 79 | SWITCH MUSEUM | https://paul13131313.github.io/switch-museum/ | 100種のスイッチUIが並ぶ博物館。ONにするたびサイトの照明が落ちていく体験型サイト |
 | 80 | nines | https://nines-seven.vercel.app | 好きなコンテンツ9つを3×3グリッドに並べるキュレーションSNS。映画・ドラマ・音楽・ゲーム・マンガ・小説から選んでマッチング |
 | 81 | OGP IMAGE API | https://og-api-self.vercel.app | URLにタイトルとカテゴリを渡すだけで全プロダクト統一デザインのOGP画像(1200x630px)を動的生成するAPI |
+| 82 | shirome（白目ジェネレーター） | https://paul13131313.github.io/shirome/ | face-api.jsで顔の目を検出し白い楕円で白目化する画像ジェネレーター。React + TypeScript + face-api.js + Canvas API + Vite |
 
 ## OGP IMAGE API
 - リポジトリ: og-api
