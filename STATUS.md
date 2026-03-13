@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 83件
+## WORKS（プロダクト開発）— 84件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -195,6 +195,7 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 81 | OGP IMAGE API | https://og-api-self.vercel.app | URLにタイトルとカテゴリを渡すだけで全プロダクト統一デザインのOGP画像(1200x630px)を動的生成するAPI |
 | 82 | shirome（白目ジェネレーター） | https://paul13131313.github.io/shirome/ | face-api.jsで顔の目を検出し白い楕円で白目化する画像ジェネレーター。React + TypeScript + face-api.js + Canvas API + Vite |
 | 83 | 名刺バトラー (meishi-battler) | https://meishi-battler.vercel.app | Claude Vision APIで名刺を解析し戦闘力を算出してバトルするWebアプリ。コロコロコミック風POPデザインにリニューアル（Dela Gothic One + M PLUS Rounded 1c、ネオンカラー、コミックスタイルCSS）。Next.js + TypeScript + Tailwind CSS + Claude Vision API + Vercel |
+| 84 | 戒名メーカー | https://kaimyo.vercel.app | 5つの質問に答えるとClaude APIが民明書房風解説付き戒名を生成。和紙風・縦書きデザイン。Next.js + TypeScript + Claude API + Noto Serif JP + CSS writing-mode |
 
 ## OGP IMAGE API
 - リポジトリ: og-api
