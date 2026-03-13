@@ -194,7 +194,7 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 80 | nines | https://nines-seven.vercel.app | 好きなコンテンツ9つを3×3グリッドに並べるキュレーションSNS。映画・ドラマ・音楽・ゲーム・マンガ・小説から選んでマッチング |
 | 81 | OGP IMAGE API | https://og-api-self.vercel.app | URLにタイトルとカテゴリを渡すだけで全プロダクト統一デザインのOGP画像(1200x630px)を動的生成するAPI |
 | 82 | shirome（白目ジェネレーター） | https://paul13131313.github.io/shirome/ | face-api.jsで顔の目を検出し白い楕円で白目化する画像ジェネレーター。React + TypeScript + face-api.js + Canvas API + Vite |
-| 83 | 名刺バトラー (meishi-battler) | https://meishi-battler.vercel.app | Claude Vision APIで名刺を解析し、企業・肩書き・資格・画数から戦闘力を算出してバトルするWebアプリ。Next.js + TypeScript + Tailwind CSS + Claude Vision API + Vercel |
+| 83 | 名刺バトラー (meishi-battler) | https://meishi-battler.vercel.app | Claude Vision APIで名刺を解析し戦闘力を算出してバトルするWebアプリ。コロコロコミック風POPデザインにリニューアル（Dela Gothic One + M PLUS Rounded 1c、ネオンカラー、コミックスタイルCSS）。Next.js + TypeScript + Tailwind CSS + Claude Vision API + Vercel |
 
 ## OGP IMAGE API
 - リポジトリ: og-api
