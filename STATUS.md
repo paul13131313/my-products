@@ -239,3 +239,4 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 機能: 27の季節イベントを毎朝9時に自動通知
 - デプロイ: Vercel（GitHub push で自動デプロイ）
 | 86 | ASCII Art Generator | https://ascii-art-generator-rust-sigma.vercel.app | 写真を高密度文字配列アートに変換。エッジ検出・カラーモード・解像度調整対応 |
+| 87 | RADAR CHART MAKER | https://paul13131313.github.io/radar-chart/ | 3〜8軸対応レーダーチャートメーカー。複数データ重ね合わせ比較・SVG/PNG書き出し・5種プリセット付き |
