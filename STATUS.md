@@ -238,3 +238,4 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 概要: 季節のイベントを「そろそろ準備しなきゃ」のタイミングで届けるLINE Bot
 - 機能: 27の季節イベントを毎朝9時に自動通知
 - デプロイ: Vercel（GitHub push で自動デプロイ）
+| 86 | ASCII Art Generator | https://ascii-art-generator-rust-sigma.vercel.app | 写真を高密度文字配列アートに変換。エッジ検出・カラーモード・解像度調整対応 |
