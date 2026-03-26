@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 90件
+## WORKS（プロダクト開発）— 91件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -238,9 +238,17 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 概要: 季節のイベントを「そろそろ準備しなきゃ」のタイミングで届けるLINE Bot
 - 機能: 27の季節イベントを毎朝9時に自動通知
 - デプロイ: Vercel（GitHub push で自動デプロイ）
+## VTCL — Vertical Magazine
+- リポジトリ: vtcl
+- URL: https://vtcl.vercel.app
+- 状態: 🟢 公開中
+- 技術: Next.js + TypeScript + Tailwind CSS
+- 概要: 縦スクロール型Webマガジン vol.1 沖永良部。写真・文章・動画がシームレスに一体化
+- デプロイ: Vercel（GitHub push で自動デプロイ）
 | 86 | ASCII Art Generator | https://ascii-art-generator-rust-sigma.vercel.app | 写真を高密度文字配列アートに変換。エッジ検出・カラーモード・解像度調整対応 |
 | 87 | RADAR CHART MAKER | https://paul13131313.github.io/radar-chart/ | 3〜8軸対応レーダーチャートメーカー。複数データ重ね合わせ比較・SVG/PNG書き出し・5種プリセット付き |
 | 88 | END ROLL MAKER | https://end-roll-maker-three.vercel.app | あなたの人生のエンドロールを映画風に作成・共有。キャスト登録・プロフィール編集・BGM付きCanvas再生・URL共有 |
 | 89 | 賃貸不動産経営管理士 完全攻略 | App Store審査中 | iOS過去問アプリ・250問収録・令和7年度対応 |
 | 90 | アルティメットおトク診断 | https://otoku-shindan.vercel.app | クレカ・投資・節税・通信費・マイル。20の質問でAIがおトク偏差値・年間損失額を診断し改善策を提案 |
+| 91 | VTCL — Vertical Magazine | https://vtcl.vercel.app | 縦スクロール型Webマガジン vol.1 沖永良部。写真・文章・動画がシームレスに一体化 |
 | 52 | MVVメーカー | https://mvv-maker.vercel.app | 質問に答えるだけでAIがMVV（ミッション・ビジョン・バリュー・パーパス）を生成。Pro/Premiumプラン準備中 |
