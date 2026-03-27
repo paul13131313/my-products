@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 92件
+## WORKS（プロダクト開発）— 93件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -253,6 +253,13 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 概要: 国立国会図書館APIから11万冊超の書誌データをハーベストし、NDC分類×出版年月でリアルタイム可視化するダッシュボード
 - 機能: ツリーマップ・月別推移・出版社ランキング・新着書籍（書影つき）
 - デプロイ: Vercel（GitHub push で自動デプロイ）
+## 生成書店 (SEISHO SHOTEN)
+- リポジトリ: seisho-shoten
+- URL: https://seisho-shoten.vercel.app/
+- 状態: 🟢 公開中
+- 技術: Next.js + TypeScript + Tailwind CSS + Anthropic Claude API + NDL OpenSearch API + NDL書影API + Supabase
+- 概要: どんな悩みにも3冊で答えるAI選書サービス。ユーザーの悩みを入力するとAIが最適な3冊を選書し、ストーリーライン付きで書影付きの棚として表示
+- デプロイ: Vercel（GitHub push で自動デプロイ）
 | 86 | ASCII Art Generator | https://ascii-art-generator-rust-sigma.vercel.app | 写真を高密度文字配列アートに変換。エッジ検出・カラーモード・解像度調整対応 |
 | 87 | RADAR CHART MAKER | https://paul13131313.github.io/radar-chart/ | 3〜8軸対応レーダーチャートメーカー。複数データ重ね合わせ比較・SVG/PNG書き出し・5種プリセット付き |
 | 88 | END ROLL MAKER | https://end-roll-maker-three.vercel.app | あなたの人生のエンドロールを映画風に作成・共有。キャスト登録・プロフィール編集・BGM付きCanvas再生・URL共有 |
@@ -261,3 +268,4 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 91 | VTCL — Vertical Magazine | https://vtcl.vercel.app | 縦スクロール型Webマガジン vol.1 沖永良部。写真・文章・動画がシームレスに一体化 |
 | 52 | MVVメーカー | https://mvv-maker.vercel.app | 質問に答えるだけでAIがMVV（ミッション・ビジョン・バリュー・パーパス）を生成。Pro/Premiumプラン準備中 |
 | 53 | 日本の出版マップ | https://japan-publishing-map.vercel.app/ | 国立国会図書館APIから11万冊超の書誌データをハーベストし、NDC分類×出版年月でリアルタイム可視化するダッシュボード |
+| 92 | 生成書店 (SEISHO SHOTEN) | https://seisho-shoten.vercel.app/ | どんな悩みにも3冊で答えるAI選書サービス。AIが最適な3冊を選書しストーリーライン付き・書影付きの棚で表示 |
