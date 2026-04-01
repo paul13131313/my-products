@@ -269,3 +269,4 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 52 | MVVメーカー | https://mvv-maker.vercel.app | 質問に答えるだけでAIがMVV（ミッション・ビジョン・バリュー・パーパス）を生成。Pro/Premiumプラン準備中 |
 | 53 | 日本の出版マップ | https://japan-publishing-map.vercel.app/ | 国立国会図書館APIから11万冊超の書誌データをハーベストし、NDC分類×出版年月でリアルタイム可視化するダッシュボード |
 | 92 | 生成書店 (SEISHO SHOTEN) | https://seisho-shoten.vercel.app/ | どんな悩みにも3冊で答えるAI選書サービス。AIが最適な3冊を選書しストーリーライン付き・書影付きの棚で表示 |
+| 93 | 無限桜 | https://mugen-sakura.vercel.app | 桜の写真と動画が無限に流れ続ける静謐な縦スクロールサイト |
