@@ -86,7 +86,7 @@
 | 72 | 自伝メーカー | https://autobiography-maker.vercel.app | AIが偉人伝スタイルであなたの人生を壮大に綴る自伝生成サービス。18の質問→Claude Opus 4.5が自伝生成。写真アップロード・印刷対応。Next.js 16 + TypeScript + Tailwind CSS |
 | 73 | EXTREME RANKINGS | https://paul13131313.github.io/extreme-rankings/ | 「世界で最も○○」な極端ランキング20問をビジュアライズするデータサイト |
 | 74 | Synchronization 制作記録 | https://paul13131313.github.io/novel/ | AI×人間の長編小説制作ドキュメンタリー |
-| 75 | 写ルン Lab. | https://paul13131313.github.io/camera-lab/ | 使い捨てカメラ風フィルターで写真を現像するWebアプリ |
+| 75 | レトロカメラフィルター | https://paul13131313.github.io/camera-lab/ | レトロカメラ風フィルターで写真を現像するWebアプリ |
 
 ---
 
