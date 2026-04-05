@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 93件
+## WORKS（プロダクト開発）— 94件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -87,6 +87,7 @@
 | 73 | EXTREME RANKINGS | https://paul13131313.github.io/extreme-rankings/ | 「世界で最も○○」な極端ランキング20問をビジュアライズするデータサイト |
 | 74 | Synchronization 制作記録 | https://paul13131313.github.io/novel/ | AI×人間の長編小説制作ドキュメンタリー |
 | 75 | レトロカメラフィルター | https://paul13131313.github.io/camera-lab/ | レトロカメラ風フィルターで写真を現像するWebアプリ |
+| 76 | RELIGION CHART | https://paul13131313.github.io/religion-chart/ | 世界の8つの宗教を13の観点から比較するインタラクティブチャート（React + Vite + TypeScript） |
 
 ---
 
