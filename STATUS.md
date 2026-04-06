@@ -119,9 +119,9 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 備考: 将来的にRAG（Supabase pgvector）への移行も可能
 ## We TASK（運用中）
 - リポジトリ: wetask
-- URL: https://wetask-two.vercel.app
+- URL: https://wetask.pages.dev
 - 状態: 🟢 運用中
-- 技術: Next.js + Upstash Redis + Vercel
+- 技術: Next.js + Upstash Redis + Cloudflare Pages
 - 概要: チームの雑務を見える化するNotionライクなボード
 - 機能: 3つの担当パターン（固定/ローテーション/フレキシブル）、対応履歴、メモ、THANKSカード、Chatwork通知、インタラクティブチュートリアル
 - クライアント: We MEMBER（サンドウさん）
