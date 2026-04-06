@@ -22,16 +22,16 @@
 | 8 | SUBSTANCE LEGALITY MAP | https://paul13131313.github.io/substance-legality-map/ | 30種の依存性物質×20カ国の法的地位インタラクティブマップ |
 | 9 | まちのカルテ | https://paul13131313.github.io/machi-no-karte/ | 東京23区オープンデータ可視化（6軸比較） |
 | 10 | WORLD VISUAL DATA | https://paul13131313.github.io/world-visual-data/ | 世界50カ国×26指標のインタラクティブダッシュボード＋紛争マップ |
-| 11 | yaaawn | https://bless-you-seven.vercel.app/ | あくび写真の無限スクロール写真集 |
+| 11 | yaaawn | https://paul13131313.github.io/bless-you/ | あくび写真の無限スクロール写真集 |
 | 12 | INFINITE LOADING | https://paul13131313.github.io/page-loader/ | 永遠に終わらないローディング画面ジョークサイト |
-| 13 | BABYBABYBABY | https://babybabybaby-seven.vercel.app | 赤ちゃんショート動画が無限に流れるTikTok風アプリ |
+| 13 | BABYBABYBABY | https://paul13131313.github.io/babybabybaby/ | 赤ちゃんショート動画が無限に流れるTikTok風アプリ |
 | 14 | スカしたらあかんで | https://paul13131313.github.io/sukashitara-akande/ | AIボケに3択ツッコミで応答するお笑いゲーム |
 | 15 | 裏の顔診断 | https://paul13131313.github.io/ura-shindan/ | 5問で8タイプの"裏の顔"を診断 |
-| 16 | 当選 BIG MONEY | https://future-asset-sim.vercel.app | 10億円当選後の人生シミュレーション |
+| 16 | 当選 BIG MONEY | https://paul13131313.github.io/future-asset-sim/ | 10億円当選後の人生シミュレーション |
 | 17 | 電車が通ります。 | https://paul13131313.github.io/densha-ga-toorimasu/ | 動画に電車が横切ってセリフをかき消すネタアプリ |
 | 18 | NIGHT QUEEN | https://paul13131313.github.io/night-queen/ | 夜の女王への成り上がりタップゲーム |
-| 19 | meeeeeeen | https://meeeeeeen.vercel.app | 世界中の麺動画が無限に流れ続ける |
-| 20 | necoo | https://necoo.vercel.app | 猫動画が無限に流れるショート動画フィード |
+| 19 | meeeeeeen | https://paul13131313.github.io/meeeeeeen/ | 世界中の麺動画が無限に流れ続ける |
+| 20 | necoo | https://paul13131313.github.io/necoo/ | 猫動画が無限に流れるショート動画フィード |
 | 21 | 生成新聞 | https://seiseishinbun.com/ | AI生成パーソナライズド新聞（独自ドメイン・メール配信対応・朝刊:株価ティッカー/夕刊:天気予報ティッカー） |
 | 22 | DM to PPTX | https://paul13131313.github.io/dm-to-pptx/ | チラシを自動でPowerPointに変換 |
 | 23 | foodphoto | https://paul13131313.github.io/foodphoto/ | 食に関する写真だけをピックアップ |
@@ -43,13 +43,13 @@
 | 29 | Web Theremin | https://paul13131313.github.io/web-theremin/ | テルミン・ドラム・ピアノをタッチ操作で演奏するマルチ楽器アプリ |
 | 30 | Touch | https://paul13131313.github.io/touch/ | 3Dマテリアルの触感をウェブで再現 |
 | 31 | おならゲップ独奏会 | https://paul13131313.github.io/goodsounds/ | サウンドで遊ぶインタラクティブエンタメ |
-| 32 | ザ・好物 | https://kobutsu.vercel.app/ | 好きな食べ物ランキングアプリ |
+| 32 | ザ・好物 | https://paul13131313.github.io/kobutsu/ | 好きな食べ物ランキングアプリ |
 | 33 | Condate | https://paul13131313.github.io/condate/ | KILL BILL風デザインの献立提案サイト |
 | 34 | 南米旅行サイト | https://paul13131313.github.io/south-america-2026/ | 2026年ペルー・ボリビア旅行ガイド |
 | 35 | CENSORED | https://paul13131313.github.io/censored/ | 人が喋ると口元にCENSORED表示＋ピー音が鳴るネタ動画アプリ |
 | 36 | 中受クエスト | https://paul13131313.github.io/juken-quest/ | カイロソフト風・中学受験シミュレーションゲーム。入塾テスト→3年間のストーリー→ミニゲーム（連打・バランス・タイミング・クイズ）→受験→ドラマチック合格発表 |
 | 37 | SHEET MOVIE | https://paul13131313.github.io/sheet-movie/ | Google Sheetsのセルをピクセルに見立てて動画をモザイク再生するChrome拡張機能 |
-| 38 | PUNCH PUNCH PUNCH | https://punch-orpin.vercel.app/ | パンチくん（子ザル）の縦型動画をタップで次々送れるTikTok風フィード |
+| 38 | PUNCH PUNCH PUNCH | https://paul13131313.github.io/punch/ | パンチくん（子ザル）の縦型動画をタップで次々送れるTikTok風フィード |
 | 39 | Silent Call | https://paul13131313.github.io/yobidashi/ | 飲食店で声を出さずに店員を呼べるアプリ（Vite + React + TypeScript） |
 | 40 | AUDIO UNIVERSE | https://paul13131313.github.io/audio-universe/ | WebGPU × Web Audio APIで音楽を宇宙に変換するオーディオビジュアライザー |
 | 41 | AUTO MV | https://paul13131313.github.io/auto-mv/ | 音楽のムード・テンポ・周波数に合わせた映像をリアルタイム自動生成 |
@@ -272,3 +272,23 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 53 | 日本の出版マップ | https://japan-publishing-map.vercel.app/ | 国立国会図書館APIから11万冊超の書誌データをハーベストし、NDC分類×出版年月でリアルタイム可視化するダッシュボード |
 | 92 | 生成書店 (SEISHO SHOTEN) | https://seisho-shoten.vercel.app/ | どんな悩みにも3冊で答えるAI選書サービス。AIが最適な3冊を選書しストーリーライン付き・書影付きの棚で表示 |
 | 93 | 無限桜 | https://mugen-sakura.vercel.app | 桜の写真と動画が無限に流れ続ける静謐な縦スクロールサイト |
+
+## インフラ移行記録（2026-04-06）
+
+### Vercel Pro → Hobby ダウングレード（月$20削減）
+
+**GitHub Pagesに移行（7プロジェクト）：**
+| プロダクト | 旧URL（Vercel） | 新URL（GitHub Pages） | 方式 |
+|-----------|----------------|---------------------|------|
+| yaaawn | bless-you-seven.vercel.app | paul13131313.github.io/bless-you/ | ビルド時Pexels API→JSON静的配信 |
+| BABYBABYBABY | babybabybaby-seven.vercel.app | paul13131313.github.io/babybabybaby/ | 同上 |
+| meeeeeeen | meeeeeeen.vercel.app | paul13131313.github.io/meeeeeeen/ | 同上 |
+| necoo | necoo.vercel.app | paul13131313.github.io/necoo/ | 同上 |
+| 当選 BIG MONEY | future-asset-sim.vercel.app | paul13131313.github.io/future-asset-sim/ | 素HTML→そのまま |
+| ザ・好物 | kobutsu.vercel.app | paul13131313.github.io/kobutsu/ | Next.js static export |
+| PUNCH PUNCH PUNCH | punch-orpin.vercel.app | paul13131313.github.io/punch/ | ビルド時YouTube API→JSON静的配信 |
+
+**Vercelに残留（7プロジェクト）：**
+台灣生成新聞 / KANJI ME / AI構文つく〜る / GHOST / PAUL bot / We TASK / いま家？
+
+**判明事項：** 生成新聞はCloudflare Workers完結（Vercel不使用）
