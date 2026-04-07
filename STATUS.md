@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 96件
+## WORKS（プロダクト開発）— 97件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -88,6 +88,7 @@
 | 74 | Synchronization 制作記録 | https://paul13131313.github.io/novel/ | AI×人間の長編小説制作ドキュメンタリー |
 | 75 | レトロカメラフィルター | https://paul13131313.github.io/camera-lab/ | レトロカメラ風フィルターで写真を現像するWebアプリ |
 | 76 | RELIGION CHART | https://paul13131313.github.io/religion-chart/ | 世界の8つの宗教を13の観点から比較するインタラクティブチャート（React + Vite + TypeScript） |
+| 96 | マンションポエムメーカー | https://paul13131313.github.io/mokutekichi/ | 住所を検索すると3D都市ビューに光の柱が立ちマンションポエムが自動生成されるジェネレーター |
 
 ---
 
