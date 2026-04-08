@@ -267,9 +267,9 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - リポジトリ: black-square
 - URL: https://paul13131313.github.io/black-square/
 - 状態: 🟢 公開済み
-- 技術: Next.js 14 + TypeScript + Tailwind CSS + IndexedDB + @dnd-kit
-- 概要: 1:1の映像だけがpadding 0でびっしり並ぶ共同アート作品。動画・GIFをアップして並べ替え可能
-- デプロイ: GitHub Pages
+- 技術: Next.js 14 + TypeScript + Tailwind CSS + IndexedDB + @dnd-kit + MediaRecorder
+- 概要: 1:1の映像だけがpadding 0でびっしり並ぶ共同アート作品。動画・GIFをアップして並べ替え可能。15秒超は自動トリミング、10MB超は1Mbpsで自動圧縮
+- デプロイ: GitHub Pages（npx gh-pages -d out --dotfiles）
 | 86 | ASCII Art Generator | https://ascii-art-generator-rust-sigma.vercel.app | 写真を高密度文字配列アートに変換。エッジ検出・カラーモード・解像度調整対応 |
 | 87 | RADAR CHART MAKER | https://paul13131313.github.io/radar-chart/ | 3〜8軸対応レーダーチャートメーカー。複数データ重ね合わせ比較・SVG/PNG書き出し・5種プリセット付き |
 | 88 | END ROLL MAKER | https://end-roll-maker-three.vercel.app | あなたの人生のエンドロールを映画風に作成・共有。キャスト登録・プロフィール編集・BGM付きCanvas再生・URL共有 |
