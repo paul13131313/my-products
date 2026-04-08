@@ -8,7 +8,7 @@
 - APIキーはサーバーレス関数で処理し、フロントに露出させない
 ---
 
-## WORKS（プロダクト開発）— 97件
+## WORKS（プロダクト開発）— 98件
 
 | # | タイトル | URL | 概要 |
 |---|---------|-----|------|
@@ -263,6 +263,13 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - 技術: Next.js + TypeScript + Tailwind CSS + Anthropic Claude API + NDL OpenSearch API + NDL書影API + Supabase
 - 概要: どんな悩みにも3冊で答えるAI選書サービス。ユーザーの悩みを入力するとAIが最適な3冊を選書し、ストーリーライン付きで書影付きの棚として表示
 - デプロイ: Vercel（GitHub push で自動デプロイ）
+## BLACK SQUARE
+- リポジトリ: black-square
+- URL: https://paul13131313.github.io/black-square/
+- 状態: 🟢 公開済み
+- 技術: Next.js 14 + TypeScript + Tailwind CSS + IndexedDB + @dnd-kit
+- 概要: 1:1の映像だけがpadding 0でびっしり並ぶ共同アート作品。動画・GIFをアップして並べ替え可能
+- デプロイ: GitHub Pages
 | 86 | ASCII Art Generator | https://ascii-art-generator-rust-sigma.vercel.app | 写真を高密度文字配列アートに変換。エッジ検出・カラーモード・解像度調整対応 |
 | 87 | RADAR CHART MAKER | https://paul13131313.github.io/radar-chart/ | 3〜8軸対応レーダーチャートメーカー。複数データ重ね合わせ比較・SVG/PNG書き出し・5種プリセット付き |
 | 88 | END ROLL MAKER | https://end-roll-maker-three.vercel.app | あなたの人生のエンドロールを映画風に作成・共有。キャスト登録・プロフィール編集・BGM付きCanvas再生・URL共有 |
@@ -275,6 +282,7 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 93 | 無限桜 | https://mugen-sakura.vercel.app | 桜の写真と動画が無限に流れ続ける静謐な縦スクロールサイト |
 | 94 | 動文字（どうもじ / DOMOJI） | https://paul13131313.github.io/domoji/ | 書き順アニメーションで手書き風テキストを生成・シェアするWebアプリ |
 | 95 | 目的地という光景（シンボル） | https://paul13131313.github.io/mokutekichi/ | 住所を入力するとフォトリアル3D都市ビューに光の柱が立つジェネレーター |
+| 96 | BLACK SQUARE | https://paul13131313.github.io/black-square/ | 1:1の映像だけがpadding 0でびっしり並ぶ共同アート作品。動画・GIFをアップして並べ替え可能 |
 
 ## インフラ移行記録（2026-04-06）
 
