@@ -304,3 +304,9 @@ Claude Codeで作業後、このファイルを更新してgit push。
 台灣生成新聞 / KANJI ME / AI構文つく〜る / GHOST / PAUL bot / We TASK / いま家？
 
 **判明事項：** 生成新聞はCloudflare Workers完結（Vercel不使用）
+
+## SOLAR FADE（2026-05-06）
+- URL: https://paul13131313.github.io/solar-fade/
+- Repo: https://github.com/paul13131313/solar-fade
+- Stack: Vite, HTML/CSS, CSS filter, SVG feTurbulence, GitHub Pages
+- Concept: 窓際で日焼けした化粧品ポスターを純CSSで再現。架空ブランド「LUMIÈRE」。
