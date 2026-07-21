@@ -284,6 +284,7 @@ Claude Codeで作業後、このファイルを更新してgit push。
 | 95 | 目的地という光景（シンボル） | https://paul13131313.github.io/mokutekichi/ | 住所を入力するとフォトリアル3D都市ビューに光の柱が立つジェネレーター |
 | 96 | BLACK SQUARE | https://paul13131313.github.io/black-square/ | 1:1の映像だけがpadding 0でびっしり並ぶ共同アート作品。動画・GIFをアップして並べ替え可能 |
 | 97 | ANIMAL AD AGENCY | https://paul13131313.github.io/animal-ad-agency/ | 動物がAI生成映像で商品を広告する架空のクリエイティブエージェンシーサイト。5本のサンプル映像・料金表・7日間タイムライン |
+| 98 | 東京異国料理マップ | https://paul13131313.github.io/ikokuryouri/ | 「東京都内20件以下」の激レア料理店だけを地図で探せるサービス。国・地域フィルタ・検索・店舗詳細ページ対応 |
 
 ## インフラ移行記録（2026-04-06）
 
@@ -309,4 +310,13 @@ Claude Codeで作業後、このファイルを更新してgit push。
 - URL: https://paul13131313.github.io/solar-fade/
 - Repo: https://github.com/paul13131313/solar-fade
 - Stack: Vite, HTML/CSS, CSS filter, SVG feTurbulence, GitHub Pages
+
+## 東京異国料理マップ（2026-07-21）
+- URL: https://paul13131313.github.io/ikokuryouri/
+- Repo: https://github.com/paul13131313/ikokuryouri
+- 状態: 🟢 公開済み
+- 技術: Next.js 16 (App Router, static export) + TypeScript + Tailwind CSS + Leaflet.js + react-leaflet + OpenStreetMap
+- 概要: 中華・フレンチなど定番以外の、東京都内に20店舗以下しかない激レア料理店を地図で探せるサービス。ジョージア・エチオピア・ポルトガル・モロッコ・モンゴル・ハンガリー・ペルー・ウズベキスタンの8か国を掲載。Tabelog等の件数を目安に「20件以下」基準で選定
+- 機能: 地図表示（Leaflet + OSM）・国別フィルタ・テキスト検索・店舗詳細ページ
+- デプロイ: GitHub Pages（gh-pagesブランチ、npx gh-pages -d out）
 - Concept: 窓際で日焼けした化粧品ポスターを純CSSで再現。架空ブランド「LUMIÈRE」。
